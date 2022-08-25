@@ -3,6 +3,8 @@
 ## Description 
 This project is a CMS-style blog where developers can publish their blog posts and comment on other developers post. This application follows the MVC paradigm in it's structure and uses Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. 
 
+
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -16,6 +18,10 @@ The user should clone the repository from GitHub. This application requires Node
 ## Usage 
 This application will allow users to sign up if they are not a member, then once they are logged in they are able to view their dashboard of posts to view, add, edit, and delete blog posts and comment on other developers post. <br>
 Please view deployed live Heroku [URL](https://mvc-tech-blog-kelton.herokuapp.com/).<br>
+
+ ## Screenshots
+
+  ![Application Preview](./assets/images/tech-blog.jpg?raw=true "blog landing page")
 
 
 
